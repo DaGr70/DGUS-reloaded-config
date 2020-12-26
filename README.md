@@ -4,9 +4,8 @@ Example Marlin configurations for the [DGUS-reloaded firmware](https://github.co
 Meant to be used with [this fork of Marlin](https://github.com/Desuuuu/Marlin).
 
 For Longer/Alphawise :
-Meant to be used with [this fork of Marlin](https://github.com/DaGr70/Marlin).
-
-Screen firmware evolution still pending (Alphawise/longer have vertical touchscreen
+  - Meant to be used with [this fork of Marlin](https://github.com/DaGr70/Marlin).
+  - Screen firmware evolution still pending (Alphawise/longer have vertical position touchscreen)
 
 ## Configurations
 The following configurations are available in the examples folder:
