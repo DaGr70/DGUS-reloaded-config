@@ -5,7 +5,8 @@ Meant to be used with [this fork of Marlin](https://github.com/Desuuuu/Marlin).
 
 For Longer/Alphawise :
 Meant to be used with [this fork of Marlin](https://github.com/DaGr70/Marlin).
-Screen firmware evolution is pending (Alphawise/longer have vertical touchscreen
+
+Screen firmware evolution still pending (Alphawise/longer have vertical touchscreen
 
 ## Configurations
 The following configurations are available in the examples folder:
